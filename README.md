@@ -1,1 +1,3 @@
 # courseratest
+
+Updated README file.
